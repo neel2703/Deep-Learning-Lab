@@ -1,4 +1,4 @@
-This repository contains the code of all my Deep Learning Lab assignments during the 5th sem of my B.Tech in Data Sceince.
+### This repository contains the code of all my Deep Learning Lab assignments during the 5th sem of my B.Tech in Data Sceince.
 
 ### Summary : The exercises performed are of the following Deep Learning concepts :
 
